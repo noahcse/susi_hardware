@@ -1,3 +1,8 @@
+this repo is fork a abandoned version from https://github.com/fossasia/susi_hardware, 
+please follow new version at https://github.com/fossasia/susi_linux
+
+
+
 # Susi Hardware
 
 [![Join the chat at https://gitter.im/fossasia/susi_hardware](https://badges.gitter.im/fossasia/susi_hardware.svg)](https://gitter.im/fossasia/susi_hardware?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
